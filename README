@@ -1,0 +1,9 @@
+--------------------------------------------------------------------------------
+
+Sensor Analyzer
+(c) 2011 Petr Nohejl
+
+Jednoduchá aplikace pro platformu Android, sloužící k testování senzorů. Ukládá
+do souborů na SD kartu RAW data z akcelerometru, magnetometru, gyroskopu a GPS.
+
+--------------------------------------------------------------------------------
